@@ -15,7 +15,6 @@ export async function POST({ request, setHeaders, coockies, url }) {
 		vals = '';
 
 	let q = await request.json().then((data) => {
-		// do something with the formdata sent in the request
 		return data.par;
 	});
 
