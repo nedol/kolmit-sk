@@ -1,5 +1,5 @@
 {
-	"name": "test-sveltekit",
+	"name": "kolmit-sk",
 	"version": "0.0.1",
 	"engines": {
 		"node": ">=18"
