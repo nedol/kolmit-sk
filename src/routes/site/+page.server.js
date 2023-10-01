@@ -1,3 +1,4 @@
+// @ts-nocheck
 import md5 from 'md5';
 import { dict } from '$lib/dict/dict';
 import { ice_conf } from '$lib/ice_conf';
