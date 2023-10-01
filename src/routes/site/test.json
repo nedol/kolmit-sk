@@ -1,0 +1,29 @@
+[
+    {
+        "id": "0",
+        "admin": {
+            "desc": "Oleg",
+            "name": "Oleg net min",
+            "role": "admin",
+            "alias": "",
+            "email": "nedol@ya.rus",
+            "picture": {
+                "medium": "../assets/operator.svg"
+            }
+        }
+    },
+    {
+        "id": "1",
+        "alias": "",
+        "admin": {
+            "desc": "",
+            "name": "",
+            "role": "admin",
+            "email": "",
+            "picture": {
+                "user_pic": "src/lib/images/operator.svg"
+            }
+        },
+        "staff": []
+    }
+]

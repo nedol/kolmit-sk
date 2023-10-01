@@ -1,0 +1,51 @@
+[
+    {
+        "id": "0",
+        "admin": {
+            "desc": "Admin of admins",
+            "name": "",
+            "role": "admin",
+            "alias": "",
+            "email": "biden@wh.com",
+            "picture": {
+                "medium": "./src/routes/assets/operator.svg"
+            }
+        },
+        "staff": [
+            {
+                "id": 1,
+                "desc": "",
+                "name": "",
+                "role": "operator",
+                "email": "",
+                "picture": {
+                    "medium": "./src/routes/assets/operator.svg"
+                }
+            },
+            {
+                "id": 2,
+                "desc": "",
+                "name": "",
+                "role": "operator",
+                "email": "",
+                "picture": {
+                    "medium": "./src/routes/assets/operator.svg"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "admin": {
+            "desc": "",
+            "name": "",
+            "role": "admin",
+            "email": "",
+            "picture": {
+                "medium": "./src/routes/assets/operator.svg"
+            }
+        },
+        "alias": "",
+        "staff": []
+    }
+]

@@ -1,0 +1,5 @@
+import md5 from 'md5';
+import { CheckOperator } from '$lib/server/db.js';
+
+/** @type {import('@sveltejs/kit').Handle} */
+export async function handle({ event, resolve }) {}

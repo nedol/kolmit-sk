@@ -1,0 +1,26 @@
+{
+    "lessen": [
+        {
+            "module": "1.1",
+            "thema": {
+                "name": "",
+                "quiz": []
+            }
+        },
+        {
+            "module": "1.2",
+            "thema": {
+                "nummer": "1",
+                "titel": "Familie",
+                "quiz": [
+                    {
+                        "1": ""
+                    },
+                    {
+                        "2": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
