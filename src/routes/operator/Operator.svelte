@@ -1,4 +1,6 @@
 <script>
+// @ts-nocheck
+
 	import { page } from '$app/stores';
 	import { onMount, getContext, setContext } from 'svelte';
 	import '../assets/icofont/icofont.min.css';
@@ -8,7 +10,7 @@
 	let callcenter;
 	import Landpage from './callcenter/Landpage.svelte';
 	import { RTCOperator } from './rtc/RTCOperator.js';
-	import * as cookie from 'cookie';
+	// import * as cookie from 'cookie';
 
 	import CallButton from './callbutton/CallButtonOperator.svelte';
 	import BurgerMenu from './menu/BurgerMenu.svelte';
